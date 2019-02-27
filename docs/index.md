@@ -12,3 +12,8 @@ SEN Library is used as a shared library for all SEN products.
 
 Includes common classes required for business administration, account, legal, etc.
 
+# Sequences
+
+{% plantuml %}
+[First] - [Second]
+{% endplantuml %}
