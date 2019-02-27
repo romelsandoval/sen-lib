@@ -17,8 +17,7 @@ title: SEN Library
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Free Software ERP Library
-root: "/sen-lib"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/sen-lib" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
